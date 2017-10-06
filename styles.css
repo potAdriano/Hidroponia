@@ -48,7 +48,7 @@ header label:hover{
 	background-color: #ff5900;
 }
 
-
+/* lOCAL ONDE ACONTECE A RESPONCIVIDADE*/
 @media(max-width: 768px){
 	header label{
 		display: block;
